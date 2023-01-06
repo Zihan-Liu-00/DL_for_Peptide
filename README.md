@@ -1,4 +1,6 @@
-# DL_for_Peptide
+
+This is the open-source file for the submitted paper 'Exploring Peptide Encoding with Deep Learning through A Sizeable Peptide Self-assembly Dataset'.
+
 We provide a peptide self-assembly dataset in this project. On this dataset, we provide graph and sequence encoding and modeling methods for peptides as a tool library.
 
 To download the peptide dataset in form of graphs, please visit:  
