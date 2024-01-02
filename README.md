@@ -21,6 +21,10 @@ For more information on the principles and details of modeling, as well as a com
 
 Liu, Zihan, Jiaqi Wang, Yun Luo, Shuang Zhao, Wenbin Li, and Stan Z. Li. "**Efficient prediction of peptide self-assembly through sequential and graphical encoding.**" Briefings in Bioinformatics 24, no. 6 (2023): bbad409.
 
+For an exploration of the peptide self-assembly mechanism based on this model, please visit https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202301544 and see our publication:
+
+Wang, Jiaqi, Zihan Liu, Shuang Zhao, Tengyan Xu, Huaimin Wang, Stan Z. Li, and Wenbin Li. "**Deep Learning Empowers the Discovery of Self‐Assembling Peptides with Over 10 Trillion Sequences.**" Advanced Science 10, no. 31 (2023): 2301544.
+
 **Information->**
 
-Please contact zihanliu@hotmail.com or liuzihan@westlake.edu.cn if you are interested in this work or if you have issues to discuss.
+Please contact zihanliu@hotmail.com or liuzihan@westlake.edu.cn if you are interested in this code project or if you have issues to discuss. 
