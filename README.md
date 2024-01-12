@@ -25,6 +25,6 @@ For an exploration of the peptide self-assembly mechanism based on this model, p
 
 Wang, Jiaqi, Zihan Liu, Shuang Zhao, Tengyan Xu, Huaimin Wang, Stan Z. Li, and Wenbin Li. "**Deep Learning Empowers the Discovery of Self‐Assembling Peptides with Over 10 Trillion Sequences.**" Advanced Science 10, no. 31 (2023): 2301544.
 
-**Information->**
+***Information->***
 
 Please contact zihanliu@hotmail.com or liuzihan@westlake.edu.cn if you are interested in this code project or if you have issues to discuss. 
