@@ -25,6 +25,8 @@ For an exploration of the peptide self-assembly mechanism based on this model, p
 
 Wang, Jiaqi, Zihan Liu, Shuang Zhao, Tengyan Xu, Huaimin Wang, Stan Z. Li, and Wenbin Li. "**Deep Learning Empowers the Discovery of Self‐Assembling Peptides with Over 10 Trillion Sequences.**" Advanced Science 10, no. 31 (2023): 2301544.
 
+If you are interested in the AP of a mixed pentapeptide system, please refer to https://github.com/wangwestlake/PDMP-PEP-SELFASSEMBLY.
+
 ***Information->***
 
-Please contact zihanliu@hotmail.com or liuzihan@westlake.edu.cn if you are interested in this code project or if you have issues to discuss. 
+Please contact zihanliu@hotmail.com or liuzihan@westlake.edu.cn if you are interested in this code project or if you have issues to discuss. If you are interested in the molecular dynamics part (i.e., data collection) and the mechanism of self-assembly, please contact wangjiaqi@westlake.edu.cn.
